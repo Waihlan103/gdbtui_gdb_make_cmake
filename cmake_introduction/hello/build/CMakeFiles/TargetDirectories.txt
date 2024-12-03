@@ -1,0 +1,3 @@
+/home/waihlan/C_Programming/cmake_introduction/hello/build/CMakeFiles/output.dir
+/home/waihlan/C_Programming/cmake_introduction/hello/build/CMakeFiles/edit_cache.dir
+/home/waihlan/C_Programming/cmake_introduction/hello/build/CMakeFiles/rebuild_cache.dir

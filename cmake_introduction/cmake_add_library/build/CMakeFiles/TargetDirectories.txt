@@ -1,0 +1,6 @@
+/home/waihlan/C_Programming/gnu_toolchain/cmake_add_library/build/CMakeFiles/out.dir
+/home/waihlan/C_Programming/gnu_toolchain/cmake_add_library/build/CMakeFiles/edit_cache.dir
+/home/waihlan/C_Programming/gnu_toolchain/cmake_add_library/build/CMakeFiles/rebuild_cache.dir
+/home/waihlan/C_Programming/gnu_toolchain/cmake_add_library/build/lib/CMakeFiles/wifi_lib.dir
+/home/waihlan/C_Programming/gnu_toolchain/cmake_add_library/build/lib/CMakeFiles/edit_cache.dir
+/home/waihlan/C_Programming/gnu_toolchain/cmake_add_library/build/lib/CMakeFiles/rebuild_cache.dir
